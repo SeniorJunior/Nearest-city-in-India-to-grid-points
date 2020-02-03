@@ -10,8 +10,8 @@ The image below are the desired output :
 ---------------------
 Table of Contents
 ---------------------
-1. Codes - A folder containing the codes on how to find the nearest distance to every grid point 
-2. Sreenshots  - A folder containing the photos of the step by step needed to find the nearest distance to every grid point
+1. Codes - A folder containing the codes and the step by step on how to find the nearest distance to every grid point 
+2. Screenshots  - A folder containing the photos needed to find the nearest distance to every grid point
 
 ---------------------
 
