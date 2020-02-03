@@ -2,7 +2,7 @@
 ---------------------
 ### Description 
 ---------------------
-Nearest city distance in India for every Grid Points in 30 000 step size (30km). Grid Points from map of India (District level) and find the nearest city from the worldcities table then calculate the distance for each point in the grid.
+Nearest city distance in India for every Grid Points in 30 000 step size (30km). Grid Points from map of India (District level) and find the nearest city from the worldcities table then calculate the distance (in Km) for each point in the grid.
 
 The image below are the desired output : 
 ![latlngcity_table](Pictures/latlngcity_table.png)
